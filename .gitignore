@@ -1,0 +1,15 @@
+# Entornos y Caché
+__pycache__/
+env_entrega/
+.vscode/
+
+# Compilados de PyInstaller
+build/
+dist/
+Kronos_POS.spec
+
+# Carpetas generadas por el uso del sistema
+Backups_Kronos/
+Reportes_Cierre_PDF/
+Reportes_PDF/
+Tickets_Emitidos/
